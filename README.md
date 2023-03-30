@@ -15,7 +15,7 @@ Module 6 challenge: Housing rental analysis for San Francisco
 - A neighborhood may be specified by selecting it from the dropdown list to the right of the plot.
 - Hovering over a node between line segments on the plot reveals the year for the x-axis, and the name and value for the y-axis variable.
 
-### Code block 15 *(point plot with GeoViews)*
+### Code block 15 *(points plot with GeoViews)*
 - Plot depicts the seven-year averages of Sale Price Per Square Foot (circles) and Gross Rent (colors) for each San Francisco neighborhood.
 - Circle diameter is indicative of the average sale price per square foot for the neighborhood represented.
 - Circle color is indicative of the average gross rent for the neighborhood represented.
