@@ -20,3 +20,8 @@ Module 6 challenge: Housing rental analysis for San Francisco
 - Circle diameter is indicative of the average sale price per square foot for the neighborhood represented.
 - Circle color is indicative of the average gross rent for the neighborhood represented.
 - Hovering over a circle on the plot reveals the longitude, latitude, average gross rent, average sale price per square foot, and name for the neighborhood represented.
+
+## Other information
+- All work can be found in the [san_francisco_housing.ipynb](https://github.com/julianritchey/pyviz-homework/blob/main/san_francisco_housing.ipynb) file.
+- All data used in this assignment can be found in the [Resources](https://github.com/julianritchey/pyviz-homework/tree/main/Resources) folder.
+- Images from the original assignment instructions can be found in the [Images](https://github.com/julianritchey/pyviz-homework/tree/main/Images) folder.
